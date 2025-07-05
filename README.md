@@ -1,9 +1,9 @@
 ### Hi there, Elias Schepis over here! 👋
 
-##### - 🔭 I’m currently working on Accenture Argentina.
-##### - 🌱 I’m currently learning more about Salesforce.
+##### - 🔭 I’m currently working on Accenture.
+##### - 🌱 I’m currently learning more about Full Stack web development.
 ##### - 💬 Ask me about tecnologies like: JAVA, HTML, CSS, Bootstrap, JavaScript, JQuery, Git, Node.js, Express.js, APIs, SQL, MongoDB, React.js, Web Design, Salesforce, Jira, DevOps and Analytics.
-##### - 📫 How to reach me: My email elias-schepis@outlook.com.ar or my LinkedIn Profile below.
+##### - 📫 How to reach me: My email schepiselias@gmail.com or my LinkedIn Profile below.
 
 
 
