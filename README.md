@@ -46,7 +46,11 @@ I'm a QA Automation Engineer with over 4 years of experience at Accenture, now f
 
 📌 *This GitHub is my professional workspace while I build and polish test frameworks based on modern industry standards.*
 
-[My LinkedIn Profile](https://www.linkedin.com/in/eliasschepis/ "My LinkedIn Profile")
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliasschepis)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:schepiselias@gmail.com)
+
 
 
 <!--
