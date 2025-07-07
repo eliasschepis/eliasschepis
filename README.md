@@ -1,5 +1,3 @@
-### Hi there, Elias Schepis over here! 👋
-
 ### 👋 Hi there! I'm Elias Schepis
 
 I'm a QA Automation Engineer with over 4 years of experience at Accenture, now focused on expanding my skillset into Python-based automation. I recently completed the **Python Programming for Test Automation** course from Test Automation University, and I'm building practical projects to showcase my growth and expertise.
