@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Elias Schepis
 
-I'm a QA Automation Engineer with over 4 years of experience at Accenture, now focused on expanding my skillset into Python-based automation. I'm currently building practical projects to showcase my growth and expertise.
+I'm a QA Automation Engineer with over 4 years of experience at Accenture, focused on expanding my skillset into Python-based automation. I'm currently building practical projects to showcase my growth and expertise.
 
 ---
 
